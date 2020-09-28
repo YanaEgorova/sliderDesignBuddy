@@ -1,0 +1,15 @@
+:root {
+  --main-text-color: #282828;
+  --semi-text-color: #ffffff;
+  --footer-text-color: #E5E5E5;
+  --company-colors-first: #FF5C8B;
+  --company-colors-second: #08BBF6;
+  --footer-background-color: #282828;
+  --border-color: #808080;
+  --main-font-family: 'IBM Plex Sans', sans-serif;
+  --semi-font-family: 'Podkova', sans-serif;
+  --additional-font-family: 'IBMPlexMono-Regular', 'sans-serif';
+  --aditional-font-family-medium: 'IBMPlexMono-Medium', 'sans-serif';
+  font-size: 62.5%;
+
+}
